@@ -4,7 +4,7 @@ A lightweight tool used to visualize when files are created and edited in Obsidi
 data is transferable between systems via the `git-data.json` file that is created
 
 
-![image alt](https://github.com/RLsdk/gitsidian/blob/f66b93df4ad3e73a5dbe1389c9cb683c9f48f326/photos/showcase.png)
+![image alt](https://github.com/RLsdk/gitsidian/blob/127431f982732a7ed5501fd12339bc8de34c9bd5/deleteme/showcase.png)
 
 ## 📥 Installation & Usage
 
