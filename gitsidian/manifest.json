@@ -1,0 +1,10 @@
+{
+  "id": "gitsidian",
+  "name": "gitsidian",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Vault visualizer — scans file metadata into git-data.json and shows activity graphs, file details, and tracks history.",
+  "author": "git - RLspk",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
