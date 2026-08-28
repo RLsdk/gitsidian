@@ -1,0 +1,10 @@
+{
+  "dataFilePath": "git-data.json",
+  "autoScanIntervalMinutes": 5,
+  "graphView": "year",
+  "color1": "#445f53",
+  "color2": "#5e8773",
+  "color3": "#62a77f",
+  "color4": "#00b248",
+  "currentWeekColor": "#ff6b6b"
+}
